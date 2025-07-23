@@ -8,7 +8,7 @@
 
 <Box class="w-[30vw] min-h-[100px] flex flex-col justify-between p-4">
     <div class="flex items-center gap-2 mb-2">
-        <div class="w-6 h-6 bg-amber-600 border-2 border-amber-700">
+        <div class="w-6 h-6 bg-amber-600 x-2 border-2 border-amber-700">
             <img src="pfp.png" />
         </div>
         <span class="text-sm font-bold text-amber-700">@yapper123</span>
